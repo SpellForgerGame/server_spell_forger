@@ -1,0 +1,10 @@
+{"description": "A burning dart.", "labels": [0, 3, 1, 3, 255, 80, 0, 3, 2, 2, 0], "keywords": ["burning", "dart"], "statusEffects": [[-1,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]}
+{"description": "A freezing needle.", "labels": [0, 2, 1, 4, 150, 200, 255, 3, 2, 1, 0], "keywords": ["freezing", "needle"], "statusEffects": [[0,-1,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]}
+{"description": "A corrosive bolt.", "labels": [0, 3, 1, 3, 50, 150, 50, 2, 3, 1, 0], "keywords": ["corrosive", "bolt"], "statusEffects": [[0,0,-1,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]}
+{"description": "An arcane missile.", "labels": [0, 4, 1, 3, 200, 100, 255, 4, 3, 2, 0], "keywords": ["arcane", "missile"], "statusEffects": [[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]}
+{"description": "A piercing arrow of pure energy.", "labels": [0, 3, 1, 3, 255, 255, 200, 3, 3, 2, 0], "keywords": ["piercing", "arrow", "energy"], "statusEffects": [[0,0,-1,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]}
+{"description": "A fire arrow that burns enemies.", "labels": [0, 3, 1, 3, 255, 80, 0, 3, 2, 2, 0], "keywords": ["fire", "arrow", "burns"], "statusEffects": [[-1,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]}
+{"description": "A freezing spear.", "labels": [0, 2, 1, 3, 150, 200, 255, 3, 2, 1, 0], "keywords": ["freezing", "spear"], "statusEffects": [[0,-1,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]}
+{"description": "A poison cloud that weakens defense.", "labels": [1, 2, 3, 2, 50, 150, 50, 2, 3, 1, 3], "keywords": ["poison", "cloud", "weakens"], "statusEffects": [[0,0,-1,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]}
+{"description": "A ground trap that stuns an enemy.", "labels": [1, 1, 2, 2, 100, 100, 100, 3, 1, 4, 2], "keywords": ["ground", "trap", "stuns"], "statusEffects": [[0,-1,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]}
+{"description": "A chain lightning spell that slows enemies.", "labels": [2, 3, 2, 4, 255, 255, 100, 4, 4, 1, 1], "keywords": ["chain", "lightning", "slows"], "statusEffects": [[0,-1,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]}

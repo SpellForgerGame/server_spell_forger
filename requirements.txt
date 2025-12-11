@@ -1,0 +1,26 @@
+# Project dependencies inferred from the repository files
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+
+# Machine learning / NLP
+torch
+transformers
+tokenizers
+sentencepiece
+accelerate
+numpy
+scikit-learn
+matplotlib
+
+# Text processing / translation
+nltk
+googletrans==4.0.0-rc1
+
+# LangChain / LLM integration (verify exact package names in your environment)
+langchain-core
+langchain-openai
+openai
+
+# Optional: add any additional packages you need for your environment or pin versions as required
