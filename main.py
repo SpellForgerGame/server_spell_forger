@@ -42,6 +42,11 @@ def generate_spell(request: SpellRequest):
 
 
 
-if __name__ == "__main__":
+if (__name__ == "__main__" ) or True:
+    
+    #uvicorn.run("main:app", host="127.0.0.1", port=8000)
+    
+    port = int(os.environ.get("PORT", 8000))
+    # MUST listen on 0.0.0.0 to be accessible outside the container's localhost
+    uvicorn.run("main:app", host="0.0.0.0", port=port)
     model, tokenizer = run_model()
-    uvicorn.run("main:app", host="127.0.0.1", port=8000)
