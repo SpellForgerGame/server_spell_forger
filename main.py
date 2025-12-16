@@ -6,7 +6,7 @@ import uvicorn
 from run_regression_model import run_model, predict
 from train_regression_model import denormalize_spell_features 
 from status_matrix_bert_matrix_model.status_model import load_model, predict_effects
-
+import os
 app = FastAPI()
 
 class SpellRequest(BaseModel):
