@@ -13,7 +13,7 @@ accelerate
 numpy
 scikit-learn
 matplotlib
-
+cgi
 # Text processing / translation
 nltk
 googletrans==4.0.0-rc1
